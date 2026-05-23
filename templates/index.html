@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page_title }} | AIニュースダイジェスト{% endblock %}
+
+{% block content %}
+  <div class="page-head">
+    <h2 class="page-title">{{ page_title }}</h2>
+    <p class="meta">
+      日付: {{ digest.date }}
+      {% if digest.generated_at %}
+        / 生成: {{ digest.generated_at }}
+      {% endif %}
+    </p>
+    {% if is_sample %}
+      <p class="notice">サンプルデータを表示しています（本日分の digest JSON がまだありません）。</p>
+    {% endif %}
+    {% if articles %}
+    <div class="speech-controls">
+      <button id="speak-all-btn">全記事を読み上げる</button>
+      <button id="stop-all-btn" disabled>止める</button>
+    </div>
+    <script>
+      const articleSummaries = [
+        {% for article in articles %}
+          {{ article.summary | tojson }},
+        {% endfor %}
+      ];
+      document.getElementById('speak-all-btn').addEventListener('click', () => speakAllArticles(articleSummaries));
+      document.getElementById('stop-all-btn').addEventListener('click', () => stopSpeaking());
+    </script>
+    {% endif %}
+  </div>
+
+  <div class="layout-two-col">
+    <section class="articles-panel" aria-label="記事一覧">
+      {% if articles %}
+        <ul class="article-list">
+          {% for article in articles %}
+            <li class="article-card">
+              <h3 class="article-title">
+                <a href="{{ article.link }}" target="_blank" rel="noopener noreferrer">
+                  {{ article.title }}
+                </a>
+              </h3>
+              <p class="article-meta">
+                <span class="source">{{ article.source }}</span>
+                {% if article.published %}
+                  <span class="published">{{ article.published }}</span>
+                {% endif %}
+              </p>
+              <p class="article-summary">{{ article.summary }}</p>
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p class="empty">記事がありません。</p>
+      {% endif %}
+    </section>
+
+    <aside class="terms-panel" aria-label="用語解説">
+      <h2 class="terms-heading">用語解説</h2>
+      {% if terms %}
+        <dl class="terms-list">
+          {% for item in terms %}
+            <dt>{{ item.term }}</dt>
+            <dd>{{ item.definition }}</dd>
+          {% endfor %}
+        </dl>
+      {% else %}
+        <p class="empty">用語がありません。</p>
+      {% endif %}
+    </aside>
+  </div>
+{% endblock %}

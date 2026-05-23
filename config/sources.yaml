@@ -1,0 +1,9 @@
+# RSSフィード一覧（ソース追加時はこのファイルに追記）
+sources:
+  - id: itmedia_all
+    name: ITmedia 総合
+    url: https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml
+
+  - id: yahoo_it
+    name: Yahoo!ニュース（テクノロジー）
+    url: https://news.yahoo.co.jp/rss/topics/it.xml

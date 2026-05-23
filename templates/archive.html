@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block title %}過去一覧 | AIニュースダイジェスト{% endblock %}
+
+{% block content %}
+  <div class="page-head">
+    <h2 class="page-title">過去のまとめ</h2>
+    <p class="meta">保存されている日付の一覧です（最大90日分を想定）。</p>
+  </div>
+
+  {% if dates %}
+    <ul class="archive-list">
+      {% for d in dates %}
+        <li>
+          <a href="{{ url_for('main.digest_by_date', date_str=d) }}">{{ d }}</a>
+          {% if d == today %}<span class="badge">今日</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p class="empty">
+      まだ保存されたダイジェストがありません。
+      バッチ実行後に <code>data/digest-YYYY-MM-DD.json</code> が作成されます。
+    </p>
+    <p>
+      <a href="{{ url_for('main.index') }}">今日のページ（サンプル表示）</a>を見る
+    </p>
+  {% endif %}
+{% endblock %}
