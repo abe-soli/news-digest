@@ -1,7 +1,62 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T01:32:21+09:00",
+  "generated_at": "2026-05-24T08:31:12+09:00",
   "articles": [
+    {
+      "title": "[ITmedia News] どうしても「Forza Horizon 6」で遊びたかったマンガ家が古いPCに四苦八苦……そして見つけた“最適解”とは？",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/24/news017.html",
+      "source": "ITmedia 総合",
+      "published": "2026-05-23T22:14:00+09:00",
+      "summary": "人気レースゲームの新作「Forza Horizon 6」が5月19日に発売されました。日本を舞台としているため国内での注目度が高く、現在はXbox Series X|S版とPC版（Steam）が提供されています。",
+      "terms": [
+        {
+          "term": "Forza Horizon 6",
+          "definition": "人気のレースゲームシリーズの最新作です。"
+        },
+        {
+          "term": "Xbox Series X|S",
+          "definition": "マイクロソフトが開発した最新世代の家庭用ゲーム機です。"
+        },
+        {
+          "term": "Steam",
+          "definition": "パソコン用のゲームをダウンロードして遊べる、世界的に有名なプラットフォームです。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia ビジネスオンライン] 「女性部下が発言しない」原因 上司が見落とす“会議の構造”",
+      "link": "https://www.itmedia.co.jp/business/articles/2605/24/news003.html",
+      "source": "ITmedia 総合",
+      "published": "2026-05-23T21:00:00+09:00",
+      "summary": "会議で女性部下が発言しないのは、性格の問題だけでなく、インポスター症候群や発言しづらい会議環境といった心理的・構造的な要因が背景にあると指摘されています。男性上司は、自身が持つ無意識のバイアスを見直す必要があるでしょう。この記事は、組織改善のためのヒントを探るものです。",
+      "terms": [
+        {
+          "term": "インポスター症候群",
+          "definition": "自分の能力や実績を過小評価し、「自分は偽物だ」と感じてしまう心理状態のことです。"
+        },
+        {
+          "term": "無意識のバイアス",
+          "definition": "自分では気づかないうちに、特定のグループや人に対して持ってしまう先入観や偏見のことです。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia PC USER] Googleが個人向け自律型AIエージェント「Gemini Spark」発表／LGが1000Hzのリフレッシュレートにネイティブ対応した「LG UltraGear（25G590B）」を発表",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2605/24/news009.html",
+      "source": "ITmedia 総合",
+      "published": "2026-05-23T21:00:00+09:00",
+      "summary": "ITmedia総合は、5月17日週に公開された主なニュースをまとめた記事を掲載しました。この中には、Googleが個人向け自律型AIエージェント「Gemini Spark」を発表したことや、LGが1000Hzのリフレッシュレートにネイティブ対応したゲーミングモニター「LG UltraGear（25G590B）」を発表したことが含まれています。",
+      "terms": [
+        {
+          "term": "自律型AIエージェント",
+          "definition": "人間の指示なしに、自分で考えて目標を達成しようとする人工知能のことです。"
+        },
+        {
+          "term": "リフレッシュレート",
+          "definition": "ディスプレイが1秒間に画面を更新する回数を表す数値で、数値が大きいほど滑らかな映像になります。"
+        }
+      ]
+    },
     {
       "title": "[ITmedia Mobile] ダイソーで550円の「マグネット式ノートパソコン用スマートフォンホルダー」は磁力も強くて優秀だった",
       "link": "https://www.itmedia.co.jp/mobile/articles/2605/23/news007.html",
@@ -23,8 +78,21 @@
       "link": "https://www.itmedia.co.jp/mobile/articles/2605/23/news031.html",
       "source": "ITmedia 総合",
       "published": "2026-05-23T01:00:00+09:00",
-      "summary": "楽天モバイルは仕様上の問題で販売停止していた5G対応モバイルWi-Fiルーターの販売を再開した。しかしセット購入した回線では、同社のRakuten Linkアプリが利用できない状況は解消されていない。重要事項の改定等に2カ月を要した同社の対応には、説明の分かりやすさや迅速さの面で課題が残る。",
-      "terms": []
+      "summary": "楽天モバイルは、仕様上の問題で販売を停止していた5G対応モバイルWi-Fiルーター「Rakuten WiFi Pocket 5G」の販売を再開しました。しかし、このルーターとセットで購入した回線では、同社の通話アプリ「Rakuten Link」が引き続き利用できない状況です。重要事項の改定に2カ月を要した楽天モバイルの対応には、説明の分かりやすさや迅速さの面で課題が残るとされています。",
+      "terms": [
+        {
+          "term": "Rakuten Link",
+          "definition": "楽天モバイルが提供する、通話やメッセージのやり取りができるアプリです。"
+        },
+        {
+          "term": "モバイルWi-Fiルーター",
+          "definition": "外出先でもスマートフォンやパソコンをインターネットにつなぐことができる、持ち運びできる小型の通信機器です。"
+        },
+        {
+          "term": "5G",
+          "definition": "第5世代移動通信システムのことで、これまでの4Gよりも速く、たくさんの機器を同時にインターネットにつなげられる新しい通信技術です。"
+        }
+      ]
     },
     {
       "title": "[ITmedia Mobile] MOFTのApple Watch向けシリコンバンドが15％オフ 無段階調節できる両面マグネット式",
@@ -39,8 +107,25 @@
       "link": "https://www.itmedia.co.jp/business/articles/2605/23/news008.html",
       "source": "ITmedia 総合",
       "published": "2026-05-23T01:00:00+09:00",
-      "summary": "Web3メディア「Mediverse」を運営するフォーイットは、「クレジットカードに関するアンケート」を実施した。その結果……",
-      "terms": []
+      "summary": "Web3メディア「Mediverse」を運営するフォーイットが、「クレジットカードに関するアンケート」を実施しました。この調査は、年収によってクレジットカードの利用状況がどのように変化するか、特に高年収層の傾向に焦点を当てていると見られます。",
+      "terms": [
+        {
+          "term": "Web3メディア",
+          "definition": "ブロックチェーンなどの新しい技術を使ったインターネットサービスや情報を扱う媒体のことです。"
+        },
+        {
+          "term": "クレジットカード",
+          "definition": "お金がなくても買い物ができる、後払い式のカードです。"
+        },
+        {
+          "term": "アンケート",
+          "definition": "多くの人に質問をして、意見や情報を集める調査のことです。"
+        },
+        {
+          "term": "高年収層",
+          "definition": "収入が多い人たちのグループのことです。"
+        }
+      ]
     },
     {
       "title": "[ITmedia ビジネスオンライン] 部下との接し方が難しいのはなぜか 上司や部下が「異性」の場合の注意点",
@@ -56,30 +141,6 @@
       "source": "ITmedia 総合",
       "published": "2026-05-22T23:30:00+09:00",
       "summary": "ソフトバンクグループが、AI時代の基盤そのものを握る側へ動き出した。米エネルギー省と米商務省は、ソフトバンクグループ傘下のエネルギー開発会社SB Energyと、米電力大手American Electric Power傘下の電力会社AEP Ohioが、オハイオ州ピケトンで、10ギガワット級のデータセンター開発と、それを支える10ギガワットの新規発電設備の整備を進めると発表した。",
-      "terms": []
-    },
-    {
-      "title": "[ITmedia News] これぞ“普通のコンデジ” パナソニック「DC-TX3」はカジュアルに使える15倍ズーム機",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/23/news012.html",
-      "source": "ITmedia 総合",
-      "published": "2026-05-22T23:14:00+09:00",
-      "summary": "パナソニックから「あ、これが普通のコンデジだ」ってカメラが出たのである。「LUMIX TX3」だ。何がいいって、めちゃシンプルでミニマムなのである。",
-      "terms": []
-    },
-    {
-      "title": "[ITmedia ビジネスオンライン] AIの利益は誰が吸い上げるのか？ NVIDIAが築く“推論の王国”とインフラの完全支配",
-      "link": "https://www.itmedia.co.jp/business/articles/2605/23/news005.html",
-      "source": "ITmedia 総合",
-      "published": "2026-05-22T23:00:00+09:00",
-      "summary": "AI業界の競争構造が、大きく変わりつつある。これまで主戦場とされてきたのは、より高性能なモデルを生み出すための「学習」だった。しかし現在、その重心は急速に「推論」へと移り始めている。",
-      "terms": []
-    },
-    {
-      "title": "[ITmedia PC USER] 日本が舞台のオープンワールドレースゲーム「Forza Horizon 6」は、土地の空気感まで再現された圧倒的リアルさ 車好きでなくとも絶対ハマる理由",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2605/23/news028.html",
-      "source": "ITmedia 総合",
-      "published": "2026-05-22T23:00:00+09:00",
-      "summary": "世界中で大ヒット中の「Forza Horizon 6」。ファン待望の「日本」を舞台に、道路のひび割れから軽トラ、J-POPまで、変態的なこだわりで再現された街並みや、スマホでも手軽に遊べる魅力を紹介する。",
       "terms": []
     },
     {
