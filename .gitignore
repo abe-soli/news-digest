@@ -6,4 +6,3 @@ __pycache__/
 .Python
 *.log
 logs/*.log
-data/digest-*.json
