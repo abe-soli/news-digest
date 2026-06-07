@@ -1,0 +1,273 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T12:56:28+09:00",
+  "articles": [
+    {
+      "title": "[ITmedia Mobile] LeicaユーザーがXiaomiの「Leitzphone」に熱狂した理由 「スマホの割に」ではなく純粋に欲しいカメラ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/07/news025.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-07T01:30:00+09:00",
+      "summary": "2026年のLeicaスマートフォンはXiaomiとの協業により、最高峰の画質を実現しました。独自機能「Leica Essential」は、過去のLeica名機の階調や色味を再現し、撮影体験を豊かにします。新搭載の可動望遠レンズは高画質である一方、コントロールリングの質感には改善の余地があると感じられました。",
+      "terms": [
+        {
+          "term": "Leica Essential",
+          "definition": "Leicaの過去の名機の写真の雰囲気（階調や色味）を再現する、このスマートフォン独自の機能です。"
+        },
+        {
+          "term": "階調",
+          "definition": "写真の明るい部分から暗い部分までの色の変化の段階のことです。これが豊かだと、より自然で深みのある写真になります。"
+        },
+        {
+          "term": "可動望遠レンズ",
+          "definition": "ズームができる、動く仕組みを持ったカメラのレンズのことです。遠くのものを大きく写すのに使われます。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia Mobile] Rakuten Link、着信拒否とRCSを頑なに拒否――楽天経済圏スーパーアプリはユーザーを置いてきぼりか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/07/news023.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-07T01:00:00+09:00",
+      "summary": "楽天モバイルは自社の「Rakuten Link」アプリに関する説明会を開催しました。このアプリには着信拒否機能がないことが課題として議論されました。また、他社がRCSへの対応を進める中で、Rakuten LinkはRCSに対応する予定がないことも明らかになりました。",
+      "terms": [
+        {
+          "term": "Rakuten Link",
+          "definition": "楽天モバイルが提供する、通話やメッセージができるアプリです。"
+        },
+        {
+          "term": "着信拒否",
+          "definition": "特定の電話番号からの電話がかかってこないようにする機能です。"
+        },
+        {
+          "term": "RCS (Rich Communication Services)",
+          "definition": "SMSやMMSの次世代規格で、よりリッチなメッセージング機能（既読表示、高画質写真、グループチャットなど）を提供します。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia Mobile] 【ワークマン】2500円の「撥水2WAYポケッタブルトート」 トートバッグがリュックに変身、折りたたみOK",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/07/news020.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-07T01:00:00+09:00",
+      "summary": "ワークマンは、トートバッグとリュックの2通りの使い方ができる「撥水2WAYポケッタブルトート」を販売しています。このバッグはメインポケットと前面ポケットにYKKファスナーを採用しています。価格は2500円で、折りたたんで持ち運びも可能です。",
+      "terms": [
+        {
+          "term": "撥水",
+          "definition": "水をはじく性質のことです。雨の日でもバッグの中身が濡れにくくなります。"
+        },
+        {
+          "term": "2WAY",
+          "definition": "一つのものが二通りの使い方ができることです。このバッグはトートバッグにもリュックにもなります。"
+        },
+        {
+          "term": "ポケッタブル",
+          "definition": "小さく折りたたんで持ち運べることです。使わないときはコンパクトにしまっておけます。"
+        },
+        {
+          "term": "YKKファスナー",
+          "definition": "世界的に有名なファスナーのブランドです。丈夫でスムーズに開け閉めできるのが特徴です。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia News] Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/07/news024.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-07T00:46:00+09:00",
+      "summary": "Googleは、AIモデル「Gemini」の需要急増に対応するため、SpaceXと大規模な契約を締結しました。この契約により、GoogleはSpaceXが提供するNVIDIA製GPUなどのAIコンピューティング能力を月額9億2000万ドルで利用します。これはSpaceXにとって、5月のAnthropicとの契約に続く大型インフラ契約となります。",
+      "terms": [
+        {
+          "term": "Gemini",
+          "definition": "Googleが開発した、人間のように考えたり話したりできる人工知能（AI）モデルのことです。"
+        },
+        {
+          "term": "SpaceX",
+          "definition": "ロケットや宇宙船を開発している会社ですが、ここではGoogleに人工知能の計算に使うコンピューターの力（AIコンピューティング能力）を提供しています。"
+        },
+        {
+          "term": "NVIDIA製GPU",
+          "definition": "人工知能（AI）の複雑な計算をとても速く行うために作られた、高性能なコンピューター部品のことです。"
+        },
+        {
+          "term": "AIコンピューティング能力",
+          "definition": "人工知能（AI）が大量のデータを処理したり、学習したりするために必要な、高性能なコンピューターの計算力や処理能力のことです。"
+        },
+        {
+          "term": "SEC",
+          "definition": "アメリカの証券取引委員会という政府機関で、会社が投資家に対して重要な情報を正しく公開しているかを監督しています。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia ビジネスオンライン] 日本家電はなぜ輝きを失ったのか 名門家電が“別会社”になった理由",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/07/news001.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-06T23:00:00+09:00",
+      "summary": "東芝やシャープなど、日本の主要家電ブランドが相次いで外資傘下に入りました。これは、激しい価格競争と事業再編が背景にあります。しかし、これらのブランドは残り続け、「日本家電」の意味合いも変化しつつあります。",
+      "terms": [
+        {
+          "term": "外資傘下",
+          "definition": "外国の会社が、日本の会社の経営権を持つようになること。"
+        },
+        {
+          "term": "価格競争",
+          "definition": "同じ種類の商品を売る会社同士が、より安く売ろうと競い合うこと。"
+        },
+        {
+          "term": "事業再編",
+          "definition": "会社が、事業の内容や組織の形を大きく見直して変えること。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia Mobile] LINEのメッセージ欄にある「Agent i」ってなんだ？ 話題の「ムード分析」や、一時的に消す方法を解説",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/07/news002.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-06T23:00:00+09:00",
+      "summary": "LINEの新機能「Agent i」の活用法が解説されています。この機能は、Yahoo!連携の買い物相談や画像生成、SNSで話題のトーク「ムード分析」など、多様な機能を提供します。また、不要な場合にはメッセージ欄から一時的に非表示にする設定も紹介されています。",
+      "terms": [
+        {
+          "term": "Agent i",
+          "definition": "LINEのメッセージ機能に新しく追加された、AIを使った便利な機能です。買い物相談や画像の作成などができます。"
+        },
+        {
+          "term": "ムード分析",
+          "definition": "LINEのトーク内容から、会話の雰囲気や感情をAIが読み取って教えてくれる機能です。"
+        },
+        {
+          "term": "Yahoo!連携",
+          "definition": "LINEの機能が、Yahoo!のサービスとつながって、より便利な情報やサービスを使えるようになることです。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia News] ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-06T22:22:00+09:00",
+      "summary": "OpenAIは、ChatGPTに新たなセキュリティ機能「ロックダウンモード」の提供を開始しました。この機能は、プロンプトインジェクション攻撃による情報漏えいのリスクを減らすことを目的としています。ロックダウンモードを有効にすると、ウェブブラウジングや外部サービスへの接続が制限され、機密データを扱う個人や組織の厳格な情報保護を支援します。",
+      "terms": [
+        {
+          "term": "ロックダウンモード",
+          "definition": "ChatGPTの新しいセキュリティ機能で、情報が外部に漏れるのを防ぐために、インターネット接続などの機能を制限します。"
+        },
+        {
+          "term": "プロンプトインジェクション",
+          "definition": "AIに意図しない指示を与えて、秘密の情報を引き出したり、誤った動作をさせたりするサイバー攻撃の一種です。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia News] パトレイバー大好きマンガ家が新作「EZY」を見たら、フィジカルAIな近未来にノスタルジーを感じた件",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/07/news016.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-06T22:14:00+09:00",
+      "summary": "「機動警察パトレイバー」の最新シリーズ「機動警察パトレイバー EZY（イズィー）」の「File 1」が、5月15日より劇場公開されています。長年のファンであるマンガ家が本作を鑑賞し、フィジカルAIが存在する近未来にノスタルジーを感じたことが報じられています。",
+      "terms": [
+        {
+          "term": "フィジカルAI",
+          "definition": "ロボットのように物理的な体を持つAIのこと。現実世界で動き、作業を行う人工知能を指します。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia ビジネスオンライン] なぜファミマの「1998円腕時計」は完売したのか “ちょうどいい一本”がササった理由",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/07/news005.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-06T22:00:00+09:00",
+      "summary": "ファミリーマートが発売したオリジナル腕時計が、発売から約10日でほぼ完売しました。これは、コンビニエンスストアで腕時計を購入するという新たな消費行動の始まりを示唆している可能性があります。記事では、1998円という手頃な価格と「ちょうどいい一本」というコンセプトが消費者に受け入れられた理由を分析しています。",
+      "terms": [
+        {
+          "term": "オリジナル商品",
+          "definition": "そのお店や会社が独自に企画・開発して販売する商品のこと。"
+        },
+        {
+          "term": "完売",
+          "definition": "商品がすべて売り切れて、もう在庫がない状態のこと。"
+        }
+      ]
+    },
+    {
+      "title": "就活チョロい AI使い5社内定22歳",
+      "link": "https://news.yahoo.co.jp/pickup/6583273?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-07T01:41:24+09:00",
+      "summary": "就活チョロい AI使い5社内定22歳",
+      "terms": []
+    },
+    {
+      "title": "米俳優組合 AIから俳優守る新契約",
+      "link": "https://news.yahoo.co.jp/pickup/6583253?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-06T23:19:48+09:00",
+      "summary": "米俳優組合 AIから俳優守る新契約",
+      "terms": []
+    },
+    {
+      "title": "Switch2「転売屋」利する格好に",
+      "link": "https://news.yahoo.co.jp/pickup/6583214?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-06T11:22:50+09:00",
+      "summary": "Switch2「転売屋」利する格好に",
+      "terms": []
+    },
+    {
+      "title": "マイナちゃん巡り 担当相が説明",
+      "link": "https://news.yahoo.co.jp/pickup/6583127?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-05T23:10:35+09:00",
+      "summary": "マイナちゃん巡り 担当相が説明",
+      "terms": []
+    },
+    {
+      "title": "日立 ミュトスへのアクセス権取得",
+      "link": "https://news.yahoo.co.jp/pickup/6583068?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-05T09:23:23+09:00",
+      "summary": "日立 ミュトスへのアクセス権取得",
+      "terms": []
+    },
+    {
+      "title": "Grokでビキニ写真 英議員が提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6583063?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-05T09:08:53+09:00",
+      "summary": "Grokでビキニ写真 英議員が提訴",
+      "terms": []
+    },
+    {
+      "title": "米AI計画に日本が800億円拠出へ",
+      "link": "https://news.yahoo.co.jp/pickup/6583003?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-05T00:36:07+09:00",
+      "summary": "日本は米国のAI計画に対し、800億円を拠出する方針であることが報じられました。この拠出は、AI技術の研究開発や普及を目的としたもので、日米間の協力関係を強化する動きと見られます。",
+      "terms": [
+        {
+          "term": "AI計画",
+          "definition": "人工知能（AI）に関する研究開発や実用化を進めるための取り組みやプロジェクトのことです。"
+        },
+        {
+          "term": "拠出",
+          "definition": "お金や物などを、ある目的のために提供することです。この場合は、日本が米国にお金を出すことを指します。"
+        }
+      ]
+    },
+    {
+      "title": "高性能AIを巡る米大統領令 狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6582906?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-04T04:01:58+09:00",
+      "summary": "この記事は、高性能AIに関するアメリカの大統領令の目的について述べています。しかし、提供された本文が非常に短いため、詳細な要約はできません。",
+      "terms": [
+        {
+          "term": "高性能AI",
+          "definition": "非常に高い能力を持つ人工知能のことです。複雑な問題を解決したり、人間のような創造的な作業を行ったりできます。"
+        },
+        {
+          "term": "大統領令",
+          "definition": "アメリカ合衆国の大統領が、議会の承認なしに発令できる命令のことです。行政機関に指示を出し、政策を実行するために使われます。"
+        }
+      ]
+    }
+  ]
+}
