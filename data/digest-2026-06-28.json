@@ -1,0 +1,183 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T14:41:44+09:00",
+  "articles": [
+    {
+      "title": "[ITmedia Mobile] ティム・クックCEOが「もはや限界」と値上げに言及――すでにAndroidでは値上げラッシュが始まる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/28/news021.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-28T04:00:00+09:00",
+      "summary": "Appleのティム・クックCEOは、海外メディアの取材に対し、自社製品の値上げの可能性に言及しました。主な原因はメモリ価格の高騰であり、この影響はすでにAndroidスマートフォンにも及んでいます。",
+      "terms": [
+        {
+          "term": "ティム・クックCEO",
+          "definition": "Appleという会社の最高経営責任者（社長）です。"
+        },
+        {
+          "term": "メモリ",
+          "definition": "スマートフォンやパソコンが一時的に情報を記憶しておくための部品です。これが高くなると製品の値段も上がります。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia News] 「HTTPステータスコード百人一首」や“社長として情報漏えいを防ぐゲーム”も 日本屈指のボードゲーム即売会で見つけた“IT卓ゲ”たち",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/28/news013.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-28T03:00:00+09:00",
+      "summary": "アナログゲーム事業のアークライトが開催した「ゲームマーケット2026春」で、IT関連のアナログゲームが紹介されました。このイベントは5月23日から24日にかけて開催されたボードゲームの展示即売会です。記事では「HTTPステータスコード百人一首」や情報漏えい防止をテーマにしたゲームなど、ユニークなIT系ボードゲームが取り上げられています。",
+      "terms": [
+        {
+          "term": "HTTPステータスコード",
+          "definition": "ウェブサイトにアクセスしたときに、サーバーがブラウザに返す応答の状態を示す3桁の数字です。例えば「200 OK」は成功、「404 Not Found」はページが見つからないことを意味します。"
+        },
+        {
+          "term": "情報漏えい",
+          "definition": "企業や個人の大切な情報が、外部に不正に流出してしまうことです。サイバー攻撃や誤操作などが原因で起こります。"
+        },
+        {
+          "term": "アナログゲーム",
+          "definition": "デジタル機器を使わず、ボードやカード、コマなどを使って遊ぶゲームのことです。ボードゲームやカードゲームなどが含まれます。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia Mobile] キュートな耳パーツ付きの「ちいかわハンディファン」 3WAY対応で最大11時間利用できる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/28/news015.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-28T01:00:00+09:00",
+      "summary": "多摩電子工業は、人気キャラクター「ちいかわ」をモチーフにした「ちいかわハンディファン」をAmazonで販売しています。このハンディファンは、手持ち、首掛け、卓上の3WAYで利用でき、風量は3段階に調節可能です。最長11時間の連続動作が可能で、取り外し可能なシリコン製の耳パーツと卓上スタンドが付属しています。",
+      "terms": [
+        {
+          "term": "3WAY",
+          "definition": "手持ち、首掛け、卓上など、3通りの使い方ができることを指します。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia News] 米政府、Anthropicの「Mythos」（ミュトス）再開を一部容認──「Fable 5」は停止継続",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/28/news019.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-27T22:15:00+09:00",
+      "summary": "Anthropicは、輸出規制により停止していたAIモデル「Claude Mythos 5」について、米政府が一部の米国組織への再展開を容認したと発表しました。しかし、別のAIモデル「Claude Fable 5」は引き続き停止されており、一般提供再開に向けた協議が続いています。",
+      "terms": [
+        {
+          "term": "Anthropic",
+          "definition": "AI（人工知能）を開発している企業の一つです。"
+        },
+        {
+          "term": "AIモデル",
+          "definition": "人工知能のプログラムやシステムのことです。特定のタスクを実行するために学習されています。"
+        },
+        {
+          "term": "輸出規制",
+          "definition": "国が、特定の技術や製品が他国へ輸出されることを制限するルールです。安全保障上の理由などで設けられます。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia News] 大人気の「めっちゃカメレオン」にプロのマンガ家が参戦！ 自慢のお絵かきスキルで無双できたのか？",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/28/news012.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-27T22:14:00+09:00",
+      "summary": "かくれんぼを題材にしたインディゲーム「めっちゃカメレオン」が人気を集めています。このゲームでは、隠れる側がペイントツールを使って自分の体に絵を描き、周囲の景色と同化して隠れるのが特徴です。プロのマンガ家がこのゲームに挑戦しましたが、最初は苦戦したと報じられています。",
+      "terms": [
+        {
+          "term": "インディゲーム",
+          "definition": "大手企業ではなく、少人数の開発者や個人が作ったゲームのことです。"
+        },
+        {
+          "term": "ペイントツール",
+          "definition": "絵を描いたり色を塗ったりするためのコンピューターソフトや機能のことです。"
+        },
+        {
+          "term": "同化",
+          "definition": "周りのものとそっくりになって、見分けがつかなくなることです。"
+        },
+        {
+          "term": "マンガ家",
+          "definition": "マンガを描くことを仕事にしている人のことです。"
+        }
+      ]
+    },
+    {
+      "title": "[ITmedia ビジネスオンライン] 冷風扇「ここひえ」270万台突破の背景 キャンプ向けのはずが車中泊で人気",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/28/news001.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-27T22:00:00+09:00",
+      "summary": "ショップジャパンの冷風扇「COCOHIE（ここひえ）」シリーズの累計販売台数が270万台を突破した。競合参入による苦戦を乗り越え、猛暑と節電ニーズを追い風に販売を伸ばしている。",
+      "terms": []
+    },
+    {
+      "title": "[ITmedia エンタープライズ] 「AIに機密データは使えない」はもう古い？ Googleが「機密AI」を拡充",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news026.html",
+      "source": "ITmedia 総合",
+      "published": "2026-06-27T22:00:00+09:00",
+      "summary": "Googleは、Confidential Computingの新機能を発表した。G4系機密VMやプロンプト暗号化SDKを公開し、AI処理時の秘匿性と検証性を強化した。Appleとの協業や機密基盤の拡充も示した。",
+      "terms": []
+    },
+    {
+      "title": "いいね購入?「スマホ農場」とは",
+      "link": "https://news.yahoo.co.jp/pickup/6585963?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-28T00:36:21+09:00",
+      "summary": "いいね購入?「スマホ農場」とは",
+      "terms": []
+    },
+    {
+      "title": "次世代通信IOWN 活用の将来像",
+      "link": "https://news.yahoo.co.jp/pickup/6585901?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-27T09:09:40+09:00",
+      "summary": "次世代通信IOWN 活用の将来像",
+      "terms": []
+    },
+    {
+      "title": "ソニー明言「aiboはやめません」",
+      "link": "https://news.yahoo.co.jp/pickup/6585876?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-27T06:43:03+09:00",
+      "summary": "ソニー明言「aiboはやめません」",
+      "terms": []
+    },
+    {
+      "title": "犬型ロボ「aibo」国内販売を終了",
+      "link": "https://news.yahoo.co.jp/pickup/6585600?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-25T04:30:28+09:00",
+      "summary": "犬型ロボ「aibo」国内販売を終了",
+      "terms": []
+    },
+    {
+      "title": "OpenAI GPT-5.6シリーズを発表",
+      "link": "https://news.yahoo.co.jp/pickup/6585874?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-27T06:24:21+09:00",
+      "summary": "OpenAI GPT-5.6シリーズを発表",
+      "terms": []
+    },
+    {
+      "title": "米政府 一部にミュトス提供を許可",
+      "link": "https://news.yahoo.co.jp/pickup/6585846?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-27T01:06:56+09:00",
+      "summary": "米政府 一部にミュトス提供を許可",
+      "terms": []
+    },
+    {
+      "title": "MacもiPadも Appleが一斉値上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6585690?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-25T23:54:09+09:00",
+      "summary": "MacもiPadも Appleが一斉値上げ",
+      "terms": []
+    },
+    {
+      "title": "作業員のダンス動画炎上 会社謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6585652?source=rss",
+      "source": "Yahoo!ニュース（テクノロジー）",
+      "published": "2026-06-25T11:32:59+09:00",
+      "summary": "作業員のダンス動画炎上 会社謝罪",
+      "terms": []
+    }
+  ]
+}
